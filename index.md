@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# 史玉堅
+- Education:育達科技大學/資訊管理系
+- Location: Miaoli City
+- E-mail: werty713025@gmail.com@gmail.com
+<hr>
 
-You can use the [editor on GitHub](https://github.com/shihjian/About_me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 專業技能
+- 使用 photoshop、PSD切版。
+- 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
+- 使用 Bootstrap 快速開發響應式網頁。
+- 了解 Javascript 基本語法，並使用 Jquery / CSS3 呈現網頁動態效果。
+- 利用 AJAX 撈取遠端JSON資料並顯示在網頁上
+- 介接第三方 API 設計 SPA 頁面 (Google Map、Open Data 等等)
+- 了解 Git / Github 與基本指令運用
+<hr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 工作經驗 
+-  兆遠科技 / 擔任助理工程師 ： <span>機械維護，讓產線順利生產</span><BR>
 
-### Markdown
+<hr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 作品集 
+- <a href="https://shihjian.github.io/work4/"><B>客製網頁</B> (RWD)</a> <BR>
+  ⌞ PSD切版後，客製版型且符合RWD響應式應用 <BR>
+  
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shihjian/About_me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
