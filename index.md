@@ -32,6 +32,7 @@
  - <a href="https://shihjian.github.io/work3/"><B> Ajax 註冊系統</B></a> <BR>
   ⌞ 使用Ajax 手刻簡單註冊頁面 <BR>
 
+  ....陸續增加中。
 
 
 ## 關於我
