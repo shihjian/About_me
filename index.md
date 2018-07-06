@@ -20,7 +20,7 @@
 <hr>
 
 ### 作品集 
-- <a href="https://shihjian.github.io/work4/"><B>客製網頁</B> (RWD)</a> <BR>
+- <a href="https://shihjian.github.io/PSD_RWD/"><B>客製網頁</B> (RWD)</a> <BR>
   ⌞ PSD切版後，客製版型且符合RWD響應式應用 <BR>
   
 
