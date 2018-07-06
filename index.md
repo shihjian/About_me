@@ -21,8 +21,13 @@
 
 ### 作品集 
 - <a href="https://shihjian.github.io/PSD_RWD/"><B>客製網頁</B> (RWD)</a> <BR>
-  ⌞ PSD切版後，客製版型且符合RWD響應式應用 <BR>
+  ⌞ PSD切版後，客製版型且符合RWD響應式應用<BR>
   
+- <a href="https://shihjian.github.io/805029/"><B>BS快速客製網頁</B> (RWD)</a> <BR>
+  ⌞ 使用Bootstrap4 快速開發網頁<BR>
+  
+-<a href="https://shihjian.github.io/work3/"><B> Ajax 註冊系統</B> (RWD)</a> <BR>
+  ⌞ 使用Ajax 手刻簡單註冊頁面 <BR>
 
 
 
