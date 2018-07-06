@@ -1,7 +1,7 @@
 # 史玉堅
 - Education:育達科技大學/資訊管理系
 - Location: Miaoli City
-- E-mail: werty713025@gmail.com@gmail.com
+- E-mail: werty713025@gmail.com
 <hr>
 
 ### 專業技能
