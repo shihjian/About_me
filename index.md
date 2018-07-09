@@ -31,6 +31,10 @@
  
  - <a href="https://shihjian.github.io/work3/"><B> Ajax 註冊系統</B></a> <BR>
   ⌞ 使用Ajax 手刻簡單註冊頁面 <BR>
+ 
+ - <a href="https://shihjian.github.io/easyjs/"><B> Javascript 備忘錄</B></a> <BR>
+  ⌞ 使用JS及localStorage 建立簡易備忘錄 <BR>
+ 
 
   ....陸續增加中。
 
