@@ -1,4 +1,4 @@
-# 史玉堅
+# 史玉堅(Jian)
 - Education:育達科技大學/資訊管理系
 - Location: Miaoli City
 - E-mail: werty713025@gmail.com
