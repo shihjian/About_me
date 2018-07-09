@@ -35,6 +35,12 @@
  - <a href="https://shihjian.github.io/easyjs/"><B> Javascript 備忘錄</B></a> <BR>
   ⌞ 使用JS及localStorage 建立簡易備忘錄 <BR>
  
+ - <a href="https://shihjian.github.io/workjswithajax/"><B> 高雄觀光景點</B></a> <BR>
+  ⌞ 使用JS及Ajax建立高雄觀光景點 <BR>
+
+
+
+
 
   ....陸續增加中。
 
