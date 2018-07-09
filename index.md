@@ -27,7 +27,7 @@
   ⌞ 使用Bootstrap4 快速開發網頁<BR>
  
  - <a href="https://shihjian.github.io/shopping/"><B>BS快速客製網頁</B> (RWD)</a> <BR>
-  ⌞ 使用Bootstrap4 快速開發網頁 仿購物網-2<BR>
+  ⌞ 使用Bootstrap4 快速開發網頁-2 仿購物網-2<BR>
  
  - <a href="https://shihjian.github.io/work3/"><B> Ajax 註冊系統</B></a> <BR>
   ⌞ 使用Ajax 手刻簡單註冊頁面 <BR>
