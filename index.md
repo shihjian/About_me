@@ -22,7 +22,7 @@
 
 ### 作品集 
  - <a href="https://shihjian.github.io/PSD_RWD/"><B>客製網頁</B> (RWD)</a> <BR>
-  ⌞ 不倚賴 CSS Framework 進行 RWD 客製化<BR>
+  ⌞ 不倚賴 CSS Framework 進行客製化<BR>
   
  - <a href="https://shihjian.github.io/805029/"><B>BS快速客製網頁</B> (RWD)</a> <BR>
   ⌞ 使用Bootstrap4 快速開發網頁<BR>
