@@ -30,14 +30,16 @@
  - <a href="https://shihjian.github.io/shopping/"><B>BS快速客製網頁</B> (RWD)</a> <BR>
   ⌞ 使用Bootstrap4 快速開發網頁-2 仿購物網-2<BR>
  
+  - <a href="https://shihjian.github.io/workjswithajax/"><B> 高雄觀光景點</B></a> <BR>
+  ⌞ 使用JS及Ajax建立高雄觀光景點 <BR>
+ 
  - <a href="https://shihjian.github.io/work3/"><B> Ajax 註冊系統</B></a> <BR>
   ⌞ 使用Ajax 手刻簡單註冊頁面 <BR>
  
  - <a href="https://shihjian.github.io/easyjs/"><B> Javascript 備忘錄</B></a> <BR>
   ⌞ 使用JS及localStorage 建立簡易備忘錄 <BR>
  
- - <a href="https://shihjian.github.io/workjswithajax/"><B> 高雄觀光景點</B></a> <BR>
-  ⌞ 使用JS及Ajax建立高雄觀光景點 <BR>
+
 
 
 
