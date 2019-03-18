@@ -23,12 +23,9 @@
 ### 作品集 
  - <a href="https://shihjian.github.io/PSD_RWD/"><B>RWD客製網頁</B> </a> <BR>
   ⌞ 不倚賴 CSS Framework 進行RWD客製化<BR>
-  
+
  - <a href="https://shihjian.github.io/805029/"><B>BS快速客製網頁</B> (RWD)</a> <BR>
   ⌞ 使用Bootstrap4 快速開發網頁<BR>
- 
- - <a href="https://shihjian.github.io/shopping/"><B>BS快速客製網頁</B> (RWD)</a> <BR>
-  ⌞ 使用Bootstrap4 快速開發網頁-2 仿購物網-2<BR>
  
   - <a href="https://shihjian.github.io/workjswithajax/"><B> 高雄觀光景點</B></a> <BR>
   ⌞ 使用JS及Ajax建立高雄觀光景點 <BR>
